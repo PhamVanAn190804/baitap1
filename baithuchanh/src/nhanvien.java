@@ -45,7 +45,7 @@ public class nhanvien {
         System.out.println("Dia Chi:" +DiaChi);
     }
     public static void main(String[] args) {
-        nhanvien nv = new nhanvien();
+        nhanvien nv = new nhanvien/();
         nv.nhapThongTinNv();
         nv.TinhTuoi();
         nv.inThongTinNv();
