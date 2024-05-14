@@ -1,0 +1,10 @@
+package TruuTuong;
+
+
+public interface HocSinh {
+  public void Lop();
+  public void GioiTinh();
+  public void Ketquahoctap();
+    
+
+}
