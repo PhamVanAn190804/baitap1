@@ -1,4 +1,4 @@
-package TruuTuong;
+package LopTruuTuong;
 
 
 public interface HocSinh {

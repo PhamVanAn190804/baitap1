@@ -1,4 +1,4 @@
-package TruuTuong;
+package LopTruuTuong;
 
 
 public class School  implements HocSinh {

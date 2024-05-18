@@ -1,4 +1,4 @@
-package lab2.baithuchanh;
+package Chuong2java;
 
 import java.util.Scanner;
 

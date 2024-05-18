@@ -1,4 +1,4 @@
-package Kethua;
+package Kethuaa;
 import java.util.Scanner;
 
 import HinhTron;

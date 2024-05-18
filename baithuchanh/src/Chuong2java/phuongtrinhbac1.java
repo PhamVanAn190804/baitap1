@@ -1,3 +1,4 @@
+package Chuong2java;
 import java.util.Scanner;
 
 public class phuongtrinhbac1 {

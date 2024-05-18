@@ -1,4 +1,4 @@
-package Model;
+package Slidee79;
 
 public class NhanVienFullTime extends NhanVien {
     private int Ngaylamviec;

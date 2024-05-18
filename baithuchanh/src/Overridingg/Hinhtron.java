@@ -1,4 +1,4 @@
-package Overriding;
+package Overridingg;
 
 public class Hinhtron {
     public void xuatThongtin() {

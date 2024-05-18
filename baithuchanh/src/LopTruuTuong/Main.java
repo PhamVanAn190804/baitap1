@@ -1,4 +1,4 @@
-package TruuTuong;
+package LopTruuTuong;
 public class Main {
     public static void main(String[] args) {
       School st = new School();

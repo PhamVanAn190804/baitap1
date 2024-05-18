@@ -1,4 +1,4 @@
-package Overriding;
+package Overridingg;
 
 public class Hinhtrutron extends Hinhtron {
     @Override
