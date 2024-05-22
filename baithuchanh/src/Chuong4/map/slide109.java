@@ -2,7 +2,7 @@ package Chuong4.Map;
 
 
     
-package Chuong4.Maps;
+package Chuong4.map;
 
 import java.util.Map;
 import java.util.Set;

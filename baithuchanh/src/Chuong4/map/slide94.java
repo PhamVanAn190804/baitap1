@@ -1,4 +1,4 @@
-package Chuong4.Map;
+package Chuong4.map;
 
     import java.util.LinkedHashMap;
     import java.util.Map;
